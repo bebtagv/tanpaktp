@@ -1,0 +1,166 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#887291089496705_887291799496634",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#887291089496705_887291872829960",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#887291089496705_887291979496616",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online Tanpa KTP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Overview Pinjol Tanpa KTP Langsung Cair Info",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/kredtpro%2F1%20Tentang%20Aplikasi%20Tanpa KTP.html?alt=media&token=73b29668-feb5-4512-91a6-55130b7bc215&_gl=1*1cukyfy*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjM5NDM1Ni4yOS4xLjE2OTYzOTQ4NjUuNjAuMC4w",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Cara Pinjam Online Tanpa Jaminan Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F2%20Cara%20Pinjam%20Online%20Tanpa%20Jaminan%20Cepat%20Cair.html?alt=media&token=b6e45c09-793a-404c-bdad-da98cd01607e&_gl=1*146fnll*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3NjQuMy4wLjA.",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Dana Rupiah Pinjol Tanpa KTP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F3%20Dana%20Rupiah%20Pinjol%20Tanpa%20KTP.html?alt=media&token=4617d77b-b0bc-449c-89d5-f3035b6cb4d7&_gl=1*38vqyg*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3ODIuNTcuMC4w",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Pinjaman Online 4 Juta",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F4%20Pinjaman%20Online%204%20Juta.html?alt=media&token=edb6e244-b953-41e5-949b-a32eee54a1b9&_gl=1*il0dx1*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3OTguNDEuMC4w",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Pinjaman Online Syariah Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F5%20Pinjaman%20Online%20Syariah%20Cepat%20Cair.html?alt=media&token=90a89b2c-926f-4a1a-9479-314bc0a42b60&_gl=1*1gbres1*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE4MTcuMjIuMC4w",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Tunaiku Pinjol Tanpa KTP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F6%20Tunaiku%20Pinjol%20Tanpa%20KTP.html?alt=media&token=b6fc7d84-c9e6-4bc6-857f-6b2e22571818&_gl=1*gqe0xu*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE4MzUuNC4wLjA.",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Pinjaman Online Tenor 7 Hari",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F7%20Pinjaman%20Online%20Tenor%207%20Hari.html?alt=media&token=f16c7f8b-2cab-4189-9563-08b236675d7c&_gl=1*140r63j*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE4NTQuNTcuMC4w",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Pinjaman Online Tenor 6 Bulan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F8%20Pinjaman%20Online%20Tenor%206%20Bulan.html?alt=media&token=42b6425b-8937-4853-b507-4e52e6a7f4c6&_gl=1*1n6v0w3*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE4NzAuNDEuMC4w",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Info Daftar Lender Pinjaman Tenor Harian",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F9%20Info%20Daftar%20Lender%20Pinjaman%20Tenor%20Harian.html?alt=media&token=b98c3693-ef2f-466a-8719-b49bab233c7a&_gl=1*jr2k6x*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE4OTMuMTguMC4w",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Info Daftar Lender Pinjaman Tenor Mingguan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F10%20Info%20Daftar%20Lender%20Pinjaman%20Tenor%20Mingguan.html?alt=media&token=b0a60adb-ff48-4742-b5d5-0d99ff9a1edd&_gl=1*1o0ng2m*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE5MTIuNjAuMC4w",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Pinjaman Online Tenor 2 Bulan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F11%20Pinjaman%20Online%20Tenor%202%20Bulan.html?alt=media&token=99aadf1b-08ef-44dd-a80b-8109f7838f73&_gl=1*14tw6q6*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE5MzIuNDAuMC4w",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online Tanpa KTP",
+      "title": "Pinjaman Tunai Aman",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2Fbannertnpaktp.png?alt=media&token=d54d47f9-b582-4b65-90c3-89c971baa6b3&_gl=1*14qzmzw*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE3MTAuNTcuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tnpaktp%2F12%20Pinjaman%20Tunai%20Aman.html?alt=media&token=bcc02a69-4a8b-48df-a856-8c801cc5b296&_gl=1*wzcv8o*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzAwMTYzMi4zMi4xLjE2OTcwMDE5NTMuMTkuMC4w",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
